@@ -1,0 +1,9 @@
+# Ignore log files
+*.log
+
+# Ignore keystores
+*.keystore
+*.jks
+
+# Ignore backup files
+*.bak
